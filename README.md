@@ -5,6 +5,17 @@ If you have any question or find any error please write me an email to otero@uni
 
 ## Google Colab instructions
 
+1) Create a google account if you don't have one
+
+2) Go to https://colab.research.google.com
+
+3) Select the GITHUB tab and type `otero-baguer`. Then select the `deep_learning_intro` repository (master branch).
+
+4) There you will see the notebooks we are going to use for the exercises. Initially try the `00-verify` notebook to check that everything works properly.
+
+![](google-colab.png)
+
+
 ## Local installation instructions
 
 ### 1) Create folder for the exercises 
