@@ -13,6 +13,8 @@ If you have any question or find any error please write me an email to otero@uni
 
 4) There you will see the notebooks we are going to use for the exercises. Initially try the `00-verify` notebook to check that everything works properly.
 
+![](google-colab.png)
+
 
 ## Local installation instructions
 
