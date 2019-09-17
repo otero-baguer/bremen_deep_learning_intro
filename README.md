@@ -42,7 +42,14 @@ Confirm that you have successfully installed Miniconda by opening a console and 
  
 ### 3) Install required packages
 
-The list of required packages is contained in the file [requirements.txt](/requirements.txt). To install all of them open a console on the folder where you have the file and type `pip install -r requirements.txt`.
+1. Open a console on the folder where you have the repo and create a virtual environment by running `conda create --name dl_intro`.
+
+2. Activate the environment with the command `conda activate dl_intro`.
+
+3. The list of required packages is contained in the file [requirements.txt](/requirements.txt). Install all of them by running the command `conda install --file requirements.txt`.
+
+4. Install `pytorch`. If you have a supported Nvidia GPU on our system run `conda install pytorch torchvision cudatoolkit=9.0 -c pytorch`. Otherwise just run `conda install pytorch torchvision -c pytorch`.
+
 
 ### 4) Run Jupyter Notebook
 When everything is installed open a terminal on the exercises folder and run `jupyter notebook`.
