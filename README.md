@@ -7,7 +7,7 @@ If you have any question or find any error please write me an email to otero@uni
 
 1) Create a google account if you don't have one
 
-2) Go to https://colab.research.google.com
+2) Go to [https://colab.research.google.com](hhttps://colab.research.google.com)
 
 3) Select the GITHUB tab and type `otero-baguer`. Then select the `deep_learning_intro` repository (master branch).
 
