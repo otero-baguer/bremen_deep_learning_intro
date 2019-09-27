@@ -72,11 +72,4 @@ These are some of the package documentations that might be helpful for you in th
  - [**sklearn**](https://scikit-learn.org): for machine learning tasks, includes example datasets and many usefull functions for doing machine learning.
 
 
-## Exercise notebooks
-
-- Notebook 1
-- Notebook 2
-- Notebook 3
-
-
 Play online with Neural Networks for binary classification at [http://playground.tensorflow.org](http://playground.tensorflow.org)
