@@ -15,7 +15,7 @@ Go to [https://colab.research.google.com](https://colab.research.google.com).
 
 ### 3) Get the notebooks
 
-Select the GITHUB tab and type `otero-baguer`. Then select the `deep_learning_intro` repository (master branch).
+Select the GITHUB tab and type `otero-baguer`. Then select the `deep-learning-intro` repository (master branch).
 
 ![](google-colab.png)
 
